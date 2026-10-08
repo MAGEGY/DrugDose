@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.expo/
+web-build/
+expo-env.d.ts
+*.local
+
+# android build artifacts & large binaries
+android/app/build/
+android/.gradle/
+android/build/
+android/local.properties
+android/gradle-*.zip
+*.zip
